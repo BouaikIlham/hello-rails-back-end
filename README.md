@@ -4,7 +4,7 @@
 
 ## Frontend
 
-The Backend part of this project: [hello-react-front-end](https://github.com/BouaikIlham/hello-react-front-end/tree/setup-projet)
+The Frontend part of this project: [hello-react-front-end](https://github.com/BouaikIlham/hello-react-front-end/tree/setup-projet)
 
 ## Built With
 
